@@ -1,0 +1,6 @@
+{
+  "version": "2026.11-th18-baseline",
+  "maxTownHall": 18,
+  "dataStatus": "partial-verified",
+  "note": "Only unlock/identity facts that can be maintained without fabricating current balance statistics are included. Per-level hitpoints, DPS, upgrade costs, and other changing values must be added from a verified source before being used by strategy scoring."
+}

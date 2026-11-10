@@ -1,0 +1,5 @@
+{
+  "dataVersion": "0.0.1-unvalidated",
+  "maxTownHall": 17,
+  "note": "maxTownHall is a configured placeholder and MUST be verified against the current game. No troop/building statistics are bundled yet; Phase 2 will add them with source and version info."
+}
